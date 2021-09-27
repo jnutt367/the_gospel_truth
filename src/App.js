@@ -2,7 +2,6 @@ import React, { useRef, useEffect, useState } from 'react';
 import { gsap } from "gsap";
 import logo from '../src/images/jason.svg';
 import './App.css';
-import ReactPlayer from 'react-player';
 
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
