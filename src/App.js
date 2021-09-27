@@ -9,7 +9,7 @@ gsap.registerPlugin(ScrollTrigger);
 const sections = [
   {
     title: 'Isaiah 29:11', 
-    subtitle: '\" I know the plans I have for you, says the LORD, plans to prosper you and not to harm you, plans for HOPE and a future.\"'
+    subtitle: '" I know the plans I have for you, says the LORD, plans to prosper you and not to harm you, plans for HOPE and a future."'
   },
   {
     title: 'The Gospel of Matthew', 
