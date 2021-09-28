@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { gsap } from "gsap";
-import logo from '../src/images/Jesus-Fish-Gold-No-Background.svg';
+import logo from '../src/images/jesus_laughing.svg';
 import './App.css';
 
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
